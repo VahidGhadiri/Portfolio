@@ -1,0 +1,33 @@
+.aside .logo a::before{
+border-left: 4px solid var(--pink);
+border-top: 4px solid var(--pink) ;
+border-radius: 4px;
+}
+
+.aside .logo a::after{
+    border-right: 4px solid var(--pink);
+    border-bottom: 4px solid var(--pink);
+    border-radius: 4px;
+}
+
+.service .service-item .service-item-inner .icon .fa,
+.about .about-content .about-text h3 span,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+     color: var(--pink);
+}
+
+.service .service-item .service-item-inner:hover .icon,
+.about .about-content .timeline .circle-dot,
+.about .about-content .skills .skill-items .progress-in,
+.btn,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-links a, 
+.about .about-content .timeline .timeline-item::before,
+.section-title h2::before,
+.section-title h2::after{
+   background-color:var(--pink);
+}
+

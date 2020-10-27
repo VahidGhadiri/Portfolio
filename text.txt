@@ -1,0 +1,36 @@
+1.Aside navbar
+    -logo
+
+    Nav
+        -icon (fa fa-home) font awsome icon                    Home
+        -icon (fa fa-user) font awsome icon                      About   
+        -icon (fa fa-list) font awsome icon                        Service
+        -icon (fa fa-briefcase) font awsome icon            Portofolio
+        -icon (fa fa-envelope) font awsome icon             Blog
+        -icon (fa fa-comments) font awsome icon          Contacs
+
+        -copy right text    
+
+2.Home Section 
+    -photo
+    -Vahid Ghadiri
+    -I'm a web developer
+
+    Social links
+    -icon (fa fa-twitter) font awsome icon
+    -icon (fa fa-facebook) font awsome icon
+    -icon (fa fa-instagram) font awsome icon
+    -icon (fa fa-linkedin) font awsome icon
+
+    3.about me
+        -about me
+        -I'm vahid ghadiri and web developer
+        -I'm a self-taught Developer,
+        I have a fairly good command of CSS, SCSS, and HTML, I am also expanding my knowledge of the JavaScript programming language, I am familiar with content related to the UI and UX domains, and I have also worked with graphic software such as adobe xd. All my efforts are aimed at maintaining mastery and learning new things. I have a great desire for progress, learning, and responsibility and I also love teamwork ...
+
+        Personal-info
+            -Birthday: 2/7/1990
+            - Age: 30
+            - Email : vahid.ghadiri1990@gmail.com
+            - Phone: +98 933 689 11 41 
+            - City: Tehran 
